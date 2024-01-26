@@ -1,12 +1,7 @@
 #!/bin/bash      
-#title           :
-#description     :
-#author		     :Mithun Reddy L
-#date            :08112012
-#version         :1.0    
-#usage		     :
 
-string_var="Hi Team, My name is Mithun Reddy L, working in IBM, Manyatha Techpark "
+
+string_var="Hi Team, My name is upendra Reddy, working in IBM, Manyatha Techpark "
 
 echo "The value of string_var value is: " ${string_var}
 
