@@ -3,6 +3,6 @@ echo "Please enter the PAT"
 read pat
 curl \
   -X POST \
- -u devopstrainingblr:$pat \
-  https://api.github.com/orgs/mss-junebatch2023/teams \
+ -u upendraredd:$pat \
+  https://github.com/Upendraredd/gitrepo \
   -d '{"name":"facebook-devopsteam","description":"A great team","permission":"push","privacy":"closed"}'
