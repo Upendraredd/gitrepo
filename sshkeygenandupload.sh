@@ -1,5 +1,11 @@
 #!/bin/bash      
 
+#title           :
+#description     :
+#author		     :upendra reddy p
+#date            :08112023
+#version         :1.0    
+#usage		     :
 
 echo "Enter your GitHub Personal Access Token:"
 read token
