@@ -1,12 +1,5 @@
 #!/bin/bash      
-#title           : SSHKey Automation
-#description     :  
-#author		     : Mithun Technologies
-#date            : 08112012
-#version         : 1.0    
-#usage		     : sh s.sh
-#CopyRights      : Mithun Technologies
-#Contact         : 9980923226/ official emailid
+
 
 echo "Enter your GitHub Personal Access Token:"
 read token
